@@ -7,7 +7,7 @@ header{
 
 .jumbotron{
     position: relative;
-    background: url("../images/sbmountain.jpg") no-repeat center center;
+    background: url("sbmountain.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
 }
