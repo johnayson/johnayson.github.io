@@ -9,6 +9,7 @@ header{
     position: relative;
     background: url("sbmountain.jpg") no-repeat center center;
     background-size: cover;
+    width: 100%;
     overflow: hidden;
 }
 .navbar-default{
