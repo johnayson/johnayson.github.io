@@ -1,0 +1,39 @@
+header{
+	padding-bottom:50px;
+}
+.content{
+	padding-top: 50px;
+}
+
+.jumbotron{
+    position: relative;
+    background: url("../images/sbmountain.jpg") no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+}
+.navbar-default{
+  background-color: #06177f;
+  border-color: #06177f;
+  background-image: none;
+  background-repeat: no-repeat;
+}
+.navbar-default .navbar-brand{
+  color: #ffffff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus{
+    text-decoration: underline;
+	  color: #ffffff;
+}
+.navbar-default .navbar-text {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}  
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    text-decoration: underline;
+	  color: #ffffff;
+  
+}
